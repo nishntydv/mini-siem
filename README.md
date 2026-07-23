@@ -109,7 +109,7 @@ Dashboard      search_logs.py
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/mini-siem.git
+git clone https://github.com/nishntydv/mini-siem
 ```
 
 Move into the project directory
