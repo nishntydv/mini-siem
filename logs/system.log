@@ -1,0 +1,11 @@
+INFO User login successful
+INFO System boot completed
+WARNING SSH login failed
+INFO USB device connected
+ERROR Firewall blocked IP 192.168.1.100
+INFO File created report.pdf
+WARNING Multiple failed login attempts
+ERROR Unauthorized access detected
+INFO Backup completed successfully
+INFO Mini SIEM started
+
