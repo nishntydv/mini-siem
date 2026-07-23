@@ -224,8 +224,6 @@ Future dashboards may include:
 
 # 📸 Screenshots
 
-Add screenshots of:
-
 - Dashboard
 - Bar Chart
 - Donut Chart
@@ -234,17 +232,6 @@ Add screenshots of:
 - ISM Policy
 - OpenSearch Running
 
-Example:
-
-```
-screenshots/
-├── dashboard.png
-├── bar-chart.png
-├── donut-chart.png
-├── alert-engine.png
-├── search-tool.png
-└── ism-policy.png
-```
 
 ---
 
